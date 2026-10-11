@@ -1,0 +1,8 @@
+{
+  "name": "ld-agent-wire",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/wire.mjs"
+  }
+}
